@@ -1,0 +1,17 @@
+# Build outputs
+build/
+dist/
+# Build outputs
+build/
+dist/
+ffmpeg/
+ffmpeg.zip
+
+# FFmpeg (bundled into exe)
+ffmpeg/
+ffmpeg.zip
+
+# Python
+env/
+__pycache__/
+*.pyc
