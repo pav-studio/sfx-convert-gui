@@ -2,6 +2,8 @@
 
 A simple Python GUI tool to batch convert audio/video files into any format using FFmpeg.
 
+![preview image](preview.png)
+
 ## ✨ Features
 - Select multiple files
 - Convert to any format (ogg, mp3, wav, etc.)
